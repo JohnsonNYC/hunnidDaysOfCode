@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name": "John Doe",
+    "age": 18,
+    "email":"john@gmail.com"
+  },
+  {
+    "id":2,
+    "name": "Gojo Saturo",
+    "age": 30,
+    "email":"gojo@gmail.com"
+  },
+  {
+    "id":3,
+    "name": "Nezuko",
+    "age": 16,
+    "email":"nezuko@gmail.com"
+  },
+  {
+    "id":4,
+    "name": "Naruto Uzumaki",
+    "age": 18,
+    "email":"naruto@gmail.com"
+  }
+]
